@@ -2,7 +2,9 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yourpersonaltechguy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anas-abdelsalam/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anas.abdelsalam57@gmail.com)
-</br>
+
+</br></br>
+
 <a href="https://github.com/Daggy1234">
   <img src="https://komarev.com/ghpvc/?username=yourpersonaltechguy&style=flat-square" />
 </a>
@@ -18,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourpersonaltechguy4&show_icons=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourpersonaltechguy&layout=compact" />
+</a>
