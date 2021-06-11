@@ -23,5 +23,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=yourpersonaltechguy&show_icons=true&hide_border=true" />
 </a>
 </br>
+![Anas's github stats](https://github-readme-stats.vercel.app/api?username=rutikwankhade&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/yourpersonaltechguy/github-readme-stats)
 
