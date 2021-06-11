@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </a>
 </br>
 <a href="https://github.com/yourpersonaltechguy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourpersonaltechguy&layout=compact" />
 </a>
