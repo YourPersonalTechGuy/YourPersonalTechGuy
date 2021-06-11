@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/yourpersonaltechguy">
   <img src="https://github-readme-stats.vercel.app/api?username=yourpersonaltechguy&show_icons=true&hide_border=true&theme=dark" />
 </a>
 </br>
-
+<a href="https://github.com/yourpersonaltechguy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourpersonaltechguy&layout=compact" />
+</a>
 
