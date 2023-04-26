@@ -10,10 +10,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - Blue Witness
-- 🌱 I’m currently learning - ant design
+- 🔭 I’m currently working with - Nextrow Digital
+- 🌱 I’m currently learning - AEM Development
 - 👯 I’m looking to collaborate on - anything
-- 🤔 I’m looking for help with - guidence on how to start learning next.js
+- 🤔 I’m looking for help with - getting ready for my Adobe Experience Developer Expert Certification
 - 💬 Ask me about - react, redux, and node.js
 - 📫 How to reach me: - you can easily reach me at my gmail here [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anas.abdelsalam57@gmail.com)
 - 😄 Pronouns: - He/Him
