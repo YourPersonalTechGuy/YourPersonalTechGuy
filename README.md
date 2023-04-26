@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: - I write rap's for fun, its great way to destress from a long days work
 
 <a href="https://github.com/yourpersonaltechguy">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourpersonaltechguy&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourpersonaltechguy&show_icons=true&hide_border=true&theme=onedark" />
 </a>
 
 
