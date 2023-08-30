@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with - Nextrow Digital
-- 🌱 I’m currently learning - AEM Development
+- 🌱 I’m currently learning - .Net Development
 - 👯 I’m looking to collaborate on - anything
 - 🤔 I’m looking for help with - getting ready for my Adobe Experience Developer Expert Certification
 - 💬 Ask me about - react, redux, and node.js
